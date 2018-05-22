@@ -1,4 +1,4 @@
-# ZA Tech Slack - Code of Conduct
+# Little Kidogo - Code of Conduct
 
 ## TL;DR
 
@@ -7,14 +7,13 @@
 * Do not harass others
 * Do not share personal information of others to people outside the community
 * All content must be "safe for work"
-* Job opportunities can be posted in [#jobpostings](https://zatech.slack.com/messages/jobpostings/), professional recruitment is not allowed
 * Don't spam the channels with links, or links to pages, for the purpose of monetization of user views and which provide no value to the community
 
 This is a safe space, let's keep it that way.
 
 ## Code of Conduct
 
-“ZA Tech” in this document refers to the ZA Tech Slack organization at [https://zatech.slack.com/](https://zatech.slack.com/). “The administrators” refers to the administrators on this organization, a [list is available at the top of the Team Directory](https://zatech.slack.com/team) (must be a member of the organization to view).
+“Little Kidogo” in this document refers to the Little Kidogo organization at [https://littlekidogo.co.za](https://littlekidogo.co.za). “The administrators” refers to the administrators on this organization. 
 
 ZA Tech is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
